@@ -1,5 +1,5 @@
 
-//{ Driver Code Starts
+// Driver Code Starts
 #include <bits/stdc++.h> 
 using namespace std; 
 
@@ -59,7 +59,7 @@ class Solution{
 };
 
 
-//{ Driver Code Starts.
+// Driver Code Starts.
 int main() 
 { 
     int t;
